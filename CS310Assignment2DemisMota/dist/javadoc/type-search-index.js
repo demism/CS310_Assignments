@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"cs310datastructures","l":"Book"},{"p":"cs310datastructures","l":"CS310Assignment2"},{"p":"cs310datastructures","l":"ShelfItem"},{"p":"cs310datastructures","l":"VideoGame"}];updateSearchResults();

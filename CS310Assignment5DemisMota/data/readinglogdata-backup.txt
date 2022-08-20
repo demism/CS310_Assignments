@@ -1,0 +1,4 @@
+BOOK###Watership Down###Richard Adams###412###2###2017###1###18###10###1###21###true
+BOOK###The Churn###James S.A. Corey###60###1###2019###0###3###9###52###44###false
+BOOK###Six Wakes###Mur Lafferty###410###1###2019###0###22###20###55###25###true
+BOOK###Fuzzy Nation###John Scalzi###358###1###2019###3###10###18###16###20###false

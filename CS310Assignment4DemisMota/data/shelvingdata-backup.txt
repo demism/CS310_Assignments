@@ -1,0 +1,5 @@
+BOOK###Old Man's War###John Scalzi###388###1
+GAME###Super Mario Bros. 3###NES###4###true
+BOOK###Neverwhere###Neil Gaiman###370###2
+foobar
+MOVIE###One Cut of the Dead###2018###2####true

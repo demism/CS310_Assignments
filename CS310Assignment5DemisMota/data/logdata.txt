@@ -1,0 +1,4 @@
+BOOK###The Alchemist###Paulo Coelho###213###3###2022###5###7###22###59###38###true
+BOOK###Animal Farm###George Orwell###137###2###2022###5###7###11###0###25###false
+BOOK###The Alchemist###Paulo Coelho###213###3###2021###5###7###22###59###38###true
+BOOK###The Giver###Lois Lowry###240###4###2019###9###11###18###23###43###true

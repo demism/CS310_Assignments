@@ -1,0 +1,10 @@
+abcd
+ABCD
+wxyz
+WXYZ
+1234
+!@#$
+[{}]
+1111
+AAAA
+aaaa

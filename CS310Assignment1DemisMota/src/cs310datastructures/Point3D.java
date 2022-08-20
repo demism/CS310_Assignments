@@ -50,7 +50,7 @@ public class Point3D extends Point2D
     }
     
     /**
-     * Allows setting the 3D point z coordinate value
+     * Allows setting the z coordinate value
      * 
      * @param z the updated 3D point z coordinate value
      */
